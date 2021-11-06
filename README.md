@@ -1,1 +1,1 @@
-# C++ Derivative Library Lecture
+# C++ Derivative Library via Visual Studio
