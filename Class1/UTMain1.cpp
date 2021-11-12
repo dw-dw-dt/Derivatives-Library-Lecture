@@ -1,6 +1,6 @@
 
 #include <iostream>
-//#include <cmath>
+#include <cmath>
 #include "UTRandom1.h"
 
 using namespace std;
@@ -17,7 +17,7 @@ double SimpleMonteCarlo1(double Expiry,
 	double rootVariance = sqrt(variance);
 	double itoCorrection = -0.5*variance;
 
-	double movedSpot = Spot*std::exp(r*Expiry + itoCorrection);
+	double movedSpot = Spot*exp(r*Expiry + itoCorrection);
 	double thisSpot;
 	double runningSum = 0;
 
