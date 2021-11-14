@@ -1,5 +1,6 @@
 # C++ Derivative Library Lecture via Visual Studio
-text: Mark Joshi (2010), C++ Design Patterns and Derivatives Pricing, 2nd edition 
+Text: Mark Joshi (2010), C++ Design Patterns and Derivatives Pricing, 2nd edition 
+Env: Visual Studio 2022
 
 # Content
 1. Foundation of C++
