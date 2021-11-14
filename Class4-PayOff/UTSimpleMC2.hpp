@@ -1,7 +1,7 @@
 #ifndef UT_SIMPLE_MC2_H
 #define UT_SIMPLE_MC2_H
 
-#include "UTPayOff2.h"
+#include "UTPayOff2.hpp"
 
 double SimpleMonteCarlo2(const UTPayOff& thePayOff,
 	double Expiry,

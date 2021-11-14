@@ -4,10 +4,10 @@
 * Diva Analytics
 */
 
-#include "UTMathFunctions.h"
-#include "UTEuropeanOptionSABR.h"
-#include "UTEuropeanOptionLogNormal.h"
-#include "UTEuropeanOptionNormal.h"
+#include "UTMathFunctions.hpp"
+#include "UTEuropeanOptionSABR.hpp"
+#include "UTEuropeanOptionLogNormal.hpp"
+#include "UTEuropeanOptionNormal.hpp"
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 #include <cmath>
-#include"UTSimpleMC2.h"
-#include "UTRandom1.h"
+#include"UTSimpleMC2.hpp"
+#include "UTRandom1.hpp"
 
 double SimpleMonteCarlo2(const UTPayOff& thePayOff,
 	double Expiry,

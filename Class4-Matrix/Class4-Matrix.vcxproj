@@ -143,7 +143,7 @@
     <ClCompile Include="MatrixHierarchyMain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MatrixHierarchy.h" />
+    <ClInclude Include="MatrixHierarchy.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -38,25 +38,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="UTEnumn.h">
+    <ClInclude Include="UTEnumn.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTEuropeanOptionBase.h">
+    <ClInclude Include="UTEuropeanOptionBase.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTEuropeanOptionLogNormal.h">
+    <ClInclude Include="UTEuropeanOptionLogNormal.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTEuropeanOptionNormal.h">
+    <ClInclude Include="UTEuropeanOptionNormal.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTEuropeanOptionSABR.h">
+    <ClInclude Include="UTEuropeanOptionSABR.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTMathFunctions.h">
+    <ClInclude Include="UTMathFunctions.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="UTNewton.h">
+    <ClInclude Include="UTNewton.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>

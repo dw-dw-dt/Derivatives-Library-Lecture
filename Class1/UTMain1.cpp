@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <cmath>
-#include "UTRandom1.h"
+#include "UTRandom1.hpp"
 
 using namespace std;
 

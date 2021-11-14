@@ -21,7 +21,7 @@
 		   POSSIBILITY OF SUCH DAMAGE.
      */
 
-#include "Matrix.h"
+#include "Matrix.hpp"
 
 Matrix::Matrix(int nrows,int ncols,double ini)
 {

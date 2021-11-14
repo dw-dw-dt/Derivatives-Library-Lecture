@@ -1,6 +1,6 @@
 
-#include "SimpleMC.h"
-#include "UTRandom1.h"
+#include "SimpleMC.hpp"
+#include "UTRandom1.hpp"
 #include <cmath>
 
 

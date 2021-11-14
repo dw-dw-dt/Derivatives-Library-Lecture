@@ -23,7 +23,7 @@
      */
 
 #include <iostream>
-#include "MatrixHierarchy.h"
+#include "MatrixHierarchy.hpp"
 
 using namespace std;
 

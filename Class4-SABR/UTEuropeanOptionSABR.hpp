@@ -9,7 +9,7 @@
 
 #include <memory>
 
-#include "UTEuropeanOptionBase.h"
+#include "UTEuropeanOptionBase.hpp"
 
 ///////////////////////////////////////////////////////////////////////////////
 class UTEuropeanOptionSABR : public UTEuropeanOptionBase

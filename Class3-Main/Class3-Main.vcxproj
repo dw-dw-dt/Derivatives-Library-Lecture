@@ -145,9 +145,9 @@
     <ClCompile Include="UTRandom1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PayOff1.h" />
-    <ClInclude Include="SimpleMC.h" />
-    <ClInclude Include="UTRandom1.h" />
+    <ClInclude Include="PayOff1.hpp" />
+    <ClInclude Include="SimpleMC.hpp" />
+    <ClInclude Include="UTRandom1.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

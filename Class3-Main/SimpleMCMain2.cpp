@@ -1,5 +1,5 @@
 
-#include"SimpleMC.h"
+#include"SimpleMC.hpp"
 #include<iostream>
 
 using namespace std;

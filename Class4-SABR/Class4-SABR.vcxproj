@@ -148,13 +148,13 @@
     <ClCompile Include="UTMathFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="UTEnumn.h" />
-    <ClInclude Include="UTEuropeanOptionBase.h" />
-    <ClInclude Include="UTEuropeanOptionLogNormal.h" />
-    <ClInclude Include="UTEuropeanOptionNormal.h" />
-    <ClInclude Include="UTEuropeanOptionSABR.h" />
-    <ClInclude Include="UTMathFunctions.h" />
-    <ClInclude Include="UTNewton.h" />
+    <ClInclude Include="UTEnumn.hpp" />
+    <ClInclude Include="UTEuropeanOptionBase.hpp" />
+    <ClInclude Include="UTEuropeanOptionLogNormal.hpp" />
+    <ClInclude Include="UTEuropeanOptionNormal.hpp" />
+    <ClInclude Include="UTEuropeanOptionSABR.hpp" />
+    <ClInclude Include="UTMathFunctions.hpp" />
+    <ClInclude Include="UTNewton.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

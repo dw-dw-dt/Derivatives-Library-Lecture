@@ -1,5 +1,5 @@
 
-#include "PayOff1.h"
+#include "PayOff1.hpp"
 #include <iostream>
 #include <MinMax.h>
 

@@ -1,5 +1,5 @@
 #include<iostream>
-#include"UTSimpleMC2.h"
+#include"UTSimpleMC2.hpp"
 using namespace std;
 
 int main()

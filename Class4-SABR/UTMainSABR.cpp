@@ -7,9 +7,9 @@
 #include<iostream>
 #include<string>
 
-#include "UTEnumn.h"
-#include "UTEuropeanOptionLogNormal.h"
-#include "UTEuropeanOptionNormal.h"
+#include "UTEnumn.hpp"
+#include "UTEuropeanOptionLogNormal.hpp"
+#include "UTEuropeanOptionNormal.hpp"
 
 using namespace std;
 

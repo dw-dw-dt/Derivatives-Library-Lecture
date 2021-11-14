@@ -1,5 +1,5 @@
 #include <minmax.h>
-#include "UTPayOff2.h"
+#include "UTPayOff2.hpp"
 
 UTPayOffCall::UTPayOffCall(double Strike_) : Strike(Strike_)
 {

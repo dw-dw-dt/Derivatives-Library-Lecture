@@ -2,9 +2,9 @@
 #include <iostream>
 #include <string>
 #include <cmath>
-#include "UTEnumn.h"
-#include "UTPayoff1.h"
-#include "UTRandom1.h"
+#include "UTEnumn.hpp"
+#include "UTPayoff1.hpp"
+#include "UTRandom1.hpp"
 
 using namespace std;
 

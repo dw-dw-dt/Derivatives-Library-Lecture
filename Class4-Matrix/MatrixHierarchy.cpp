@@ -21,7 +21,7 @@
 		   POSSIBILITY OF SUCH DAMAGE.
      */
 
-#include "MatrixHierarchy.h"
+#include "MatrixHierarchy.hpp"
 
 DenseMatrix::DenseMatrix(int nrows,int ncols,double ini)
 {
