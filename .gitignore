@@ -11,6 +11,7 @@
 *.sln.docstates
 *.out
 /Class4-SABR-HW/*
+/Class8-MT/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
