@@ -4,16 +4,16 @@
 * Diva Analytics
 */
 
-#include "UTEnum.h"
-#include "UTValuationEngine.h"
-#include "UTValuationEngineFactory.h"
-#include "UTProductCashflow.h"
-#include "UTProductSwap.h"
-#include "UTProductEuropeanOption.h"
-#include "UTProductPathDependent.h"
-#include "UTModelYieldCurve.h"
-#include "UTModelBlackSholesDynamics.h"
-#include "UTEuropeanOptionLogNormal.h"
+#include "UTEnum.hpp"
+#include "UTValuationEngine.hpp"
+#include "UTValuationEngineFactory.hpp"
+#include "UTProductCashflow.hpp"
+#include "UTProductSwap.hpp"
+#include "UTProductEuropeanOption.hpp"
+#include "UTProductPathDependent.hpp"
+#include "UTModelYieldCurve.hpp"
+#include "UTModelBlackSholesDynamics.hpp"
+#include "UTEuropeanOptionLogNormal.hpp"
 #include <stdexcept>
 
 using namespace std;

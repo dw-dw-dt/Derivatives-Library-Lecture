@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTRandomParkMiller.h"
+#include "UTRandomParkMiller.hpp"
 
 using namespace std;
 

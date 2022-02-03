@@ -4,8 +4,8 @@
 * Diva Analytics
 */
 
-#include "UTMathFunctions.h"
-#include "UTEuropeanOptionNormal.h"
+#include "UTMathFunctions.hpp"
+#include "UTEuropeanOptionNormal.hpp"
 #include <stdexcept>
 
 using namespace std;

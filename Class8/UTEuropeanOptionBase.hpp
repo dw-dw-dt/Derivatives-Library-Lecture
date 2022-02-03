@@ -9,8 +9,8 @@
 
 #include <vector>
 
-#include "UTEnum.h"
-#include "UTNewton.h"
+#include "UTEnum.hpp"
+#include "UTNewton.hpp"
 
 //
 // UTEuropeanOption (static class)

@@ -8,9 +8,9 @@
 #define  UT_PRODUCT_EUROPEAN_OPTION_H
 
 #include <string>
-#include "UTEnum.h"
-#include "UTProductCashflow.h"
-#include "UTProductSwap.h"
+#include "UTEnum.hpp"
+#include "UTProductCashflow.hpp"
+#include "UTProductSwap.hpp"
 
 ///////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////

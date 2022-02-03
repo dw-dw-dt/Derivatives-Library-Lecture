@@ -9,8 +9,8 @@
 
 #include <memory>
 #include <vector>
-#include "UTWrapper.h"
-#include "UTValuationEngine.h"
+#include "UTWrapper.hpp"
+#include "UTValuationEngine.hpp"
 
 //forward declarations
 class UTProductBase;

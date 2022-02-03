@@ -7,9 +7,9 @@
 #include <float.h>
 #include <iostream>
 
-#include "UTMathFunctions.h"
-#include "UTEuropeanOptionLogNormal.h"
-#include "UTEuropeanOptionBase.h"
+#include "UTMathFunctions.hpp"
+#include "UTEuropeanOptionLogNormal.hpp"
+#include "UTEuropeanOptionBase.hpp"
 
 using namespace std;
 

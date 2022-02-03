@@ -4,8 +4,8 @@
 * Diva Analytics
 */
 
-#include "UTRandomBase.h"
-#include "UTMathFunctions.h"
+#include "UTRandomBase.hpp"
+#include "UTMathFunctions.hpp"
 
 using namespace std;
 

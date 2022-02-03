@@ -4,9 +4,9 @@
 * Diva Analytics
 */
 
-#include "UTModelBlackSholesDynamics.h"
-#include "UTModelYieldCurve.h"
-#include "UTWrapper.h"
+#include "UTModelBlackSholesDynamics.hpp"
+#include "UTModelYieldCurve.hpp"
+#include "UTWrapper.hpp"
 
 using namespace std;
 

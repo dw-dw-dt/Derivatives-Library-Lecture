@@ -10,7 +10,7 @@
 #include <memory>
 #include <vector>
 
-#include "UTProductCashflow.h"
+#include "UTProductCashflow.hpp"
 
 enum class UT_FixedFloat;
 

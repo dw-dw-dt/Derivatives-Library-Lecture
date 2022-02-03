@@ -4,8 +4,8 @@
 * Diva Analytics
 */
 
-#include "UTEnum.h"
-#include "UTProductSwap.h"
+#include "UTEnum.hpp"
+#include "UTProductSwap.hpp"
 #include <stdexcept>
 
 using namespace std;

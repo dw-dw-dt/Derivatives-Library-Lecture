@@ -45,31 +45,31 @@
     <ClCompile Include="UTValuationEngineMonteCarlo.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="UTBisection.h" />
-    <ClInclude Include="UTEnum.h" />
-    <ClInclude Include="UTEuropeanOptionBase.h" />
-    <ClInclude Include="UTEuropeanOptionLogNormal.h" />
-    <ClInclude Include="UTEuropeanOptionNormal.h" />
-    <ClInclude Include="UTEuropeanOptionSABR.h" />
-    <ClInclude Include="UTMathFunctions.h" />
-    <ClInclude Include="UTModelBase.h" />
-    <ClInclude Include="UTModelBlackSholesDynamics.h" />
-    <ClInclude Include="UTModelFactory.h" />
-    <ClInclude Include="UTModelYieldCurve.h" />
-    <ClInclude Include="UTNewton.h" />
-    <ClInclude Include="UTProductBase.h" />
-    <ClInclude Include="UTProductCashflow.h" />
-    <ClInclude Include="UTProductEuropeanOption.h" />
-    <ClInclude Include="UTProductPathDependent.h" />
-    <ClInclude Include="UTProductSwap.h" />
-    <ClInclude Include="UTRandomAntitheticVariates.h" />
-    <ClInclude Include="UTRandomBase.h" />
-    <ClInclude Include="UTRandomParkMiller.h" />
-    <ClInclude Include="UTTest.h" />
-    <ClInclude Include="UTValuationEngine.h" />
-    <ClInclude Include="UTValuationEngineFactory.h" />
-    <ClInclude Include="UTValuationEngineMonteCarlo.h" />
-    <ClInclude Include="UTWrapper.h" />
+    <ClInclude Include="UTBisection.hpp" />
+    <ClInclude Include="UTEnum.hpp" />
+    <ClInclude Include="UTEuropeanOptionBase.hpp" />
+    <ClInclude Include="UTEuropeanOptionLogNormal.hpp" />
+    <ClInclude Include="UTEuropeanOptionNormal.hpp" />
+    <ClInclude Include="UTEuropeanOptionSABR.hpp" />
+    <ClInclude Include="UTMathFunctions.hpp" />
+    <ClInclude Include="UTModelBase.hpp" />
+    <ClInclude Include="UTModelBlackSholesDynamics.hpp" />
+    <ClInclude Include="UTModelFactory.hpp" />
+    <ClInclude Include="UTModelYieldCurve.hpp" />
+    <ClInclude Include="UTNewton.hpp" />
+    <ClInclude Include="UTProductBase.hpp" />
+    <ClInclude Include="UTProductCashflow.hpp" />
+    <ClInclude Include="UTProductEuropeanOption.hpp" />
+    <ClInclude Include="UTProductPathDependent.hpp" />
+    <ClInclude Include="UTProductSwap.hpp" />
+    <ClInclude Include="UTRandomAntitheticVariates.hpp" />
+    <ClInclude Include="UTRandomBase.hpp" />
+    <ClInclude Include="UTRandomParkMiller.hpp" />
+    <ClInclude Include="UTTest.hpp" />
+    <ClInclude Include="UTValuationEngine.hpp" />
+    <ClInclude Include="UTValuationEngineFactory.hpp" />
+    <ClInclude Include="UTValuationEngineMonteCarlo.hpp" />
+    <ClInclude Include="UTWrapper.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

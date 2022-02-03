@@ -8,17 +8,17 @@
 #include<fstream>
 #include<string>
 
-#include "UTEuropeanOptionLogNormal.h"
-#include "UTEuropeanOptionNormal.h"
-#include "UTProductSwap.h"
-#include "UTProductEuropeanOption.h"
-#include "UTProductPathDependent.h"
-#include "UTModelYieldCurve.h"
-#include "UTModelBlackSholesDynamics.h"
-#include "UTValuationEngineFactory.h"
-#include "UTRandomParkMiller.h"
-#include "UTRandomAntitheticVariates.h"
-#include "UTModelFactory.h"
+#include "UTEuropeanOptionLogNormal.hpp"
+#include "UTEuropeanOptionNormal.hpp"
+#include "UTProductSwap.hpp"
+#include "UTProductEuropeanOption.hpp"
+#include "UTProductPathDependent.hpp"
+#include "UTModelYieldCurve.hpp"
+#include "UTModelBlackSholesDynamics.hpp"
+#include "UTValuationEngineFactory.hpp"
+#include "UTRandomParkMiller.hpp"
+#include "UTRandomAntitheticVariates.hpp"
+#include "UTModelFactory.hpp"
 
 using namespace std;
 

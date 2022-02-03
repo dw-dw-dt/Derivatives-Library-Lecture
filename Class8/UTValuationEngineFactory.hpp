@@ -10,8 +10,8 @@
 #include <memory>
 #include <vector>
 
-#include "UTValuationEngine.h"
-#include "UTWrapper.h"
+#include "UTValuationEngine.hpp"
+#include "UTWrapper.hpp"
 
 class UTValuationEngineBase;
 //class UTRandomBase;

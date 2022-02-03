@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTProductEuropeanOption.h"
+#include "UTProductEuropeanOption.hpp"
 
 using namespace std;
 

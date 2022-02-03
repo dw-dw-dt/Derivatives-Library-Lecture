@@ -6,13 +6,13 @@
 
 #include <memory>
 
-#include "UTEnum.h"
-#include "UTModelFactory.h"
-#include "UTProductSwap.h"
-#include "UTProductEuropeanOption.h"
-#include "UTEuropeanOptionLogNormal.h"
-#include "UTValuationEngineFactory.h"
-#include "UTBisection.h"
+#include "UTEnum.hpp"
+#include "UTModelFactory.hpp"
+#include "UTProductSwap.hpp"
+#include "UTProductEuropeanOption.hpp"
+#include "UTEuropeanOptionLogNormal.hpp"
+#include "UTValuationEngineFactory.hpp"
+#include "UTBisection.hpp"
 
 using namespace std;
 

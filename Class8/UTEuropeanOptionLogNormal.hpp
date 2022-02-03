@@ -1,29 +1,30 @@
-/* UTEuropeanOptionNormal.h
+/* UTEuropeanOptionLogNormal.h
 *
 * Copyright (c) 2016
 * Diva Analytics
 */
 
-#ifndef UT_EUROPEAN_OPTION_NORMAL_H
-#define UT_EUROPEAN_OPTION_NORMAL_H
+#ifndef UT_EUROPEAN_OPTION_LOGNORMAL_H
+#define UT_EUROPEAN_OPTION_LOGNORMAL_H
 
-#include "UTEuropeanOptionBase.h"
+#include "UTEuropeanOptionBase.hpp"
 
 
-class UTEuropeanOptionNormal : public UTEuropeanOptionBase
+class UTEuropeanOptionLogNormal : public UTEuropeanOptionBase
 {
 public:
 
 	// Destructor
-	~UTEuropeanOptionNormal();
+	~UTEuropeanOptionLogNormal();
 
 	// Constructor
-	UTEuropeanOptionNormal();
-	UTEuropeanOptionNormal(
+	UTEuropeanOptionLogNormal();
+	UTEuropeanOptionLogNormal(
 		double dForward,
 		double dStrike,
 		double dTimeToExpiry,
-		double dSigma = 0.0);  // This is a Normal (Gaussian) Volatility !!!
+		double dSigma = 0.0);  // This is a LogNormal Volatility !!!
+
 
 public:
 
@@ -54,14 +55,17 @@ private:
 
 	// Member variables (pre-calculated data)
 
-	// This is distance = (F - K) / stdDev;
+	// This is distance = log(F/K) / stdDev;
 	double myDistance;
-	double myCumNormD;
-	double myCumNormDMinusOne;
-	double myGaussD;
-	double myDDistanceDSigma;
+	double myD1;
+	double myD2;
+	double myCumNormD1;
+	double myCumNormD2;
+	double myCumNormD1MinusOne;
+	double myCumNormD2MinusOne;
+	double myGaussD1;
+	double myDD1DSigma;
 
 };
 
-///////////////////////////////////////////////////////////////////////////////
 #endif // UT_EUROPEAN_OPTION_LOGNORMAL_H

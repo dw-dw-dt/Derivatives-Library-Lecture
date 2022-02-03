@@ -6,7 +6,7 @@
 
 #include <cmath>
 
-#include "UTMathFunctions.h"
+#include "UTMathFunctions.hpp"
 
 using namespace std;
 

@@ -10,10 +10,10 @@
 
 #include <vector>
 
-#include "UTModelYieldCurve.h"
-#include "UTModelBlackSholesDynamics.h"
-#include "UTProductCashflow.h"
-#include "UTBisection.h"
+#include "UTModelYieldCurve.hpp"
+#include "UTModelBlackSholesDynamics.hpp"
+#include "UTProductCashflow.hpp"
+#include "UTBisection.hpp"
 
 
 ///////////////////////////////////////////////////////////////////////////////

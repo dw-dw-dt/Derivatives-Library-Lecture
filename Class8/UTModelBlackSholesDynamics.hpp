@@ -9,9 +9,9 @@
 
 #include <string>
 #include <vector>
-#include "UTModelBase.h"
-#include "UTModelYieldCurve.h"
-#include "UTWrapper.h"
+#include "UTModelBase.hpp"
+#include "UTModelYieldCurve.hpp"
+#include "UTWrapper.hpp"
 
 
 class UTModelYieldCurve;

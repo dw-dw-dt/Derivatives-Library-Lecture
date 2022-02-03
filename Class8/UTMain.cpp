@@ -5,9 +5,9 @@
 */
 
 #include<iostream>
-#include "UTTest.h"
-#include "UTProductSwap.h"
-#include "UTModelYieldCurve.h"
+#include "UTTest.hpp"
+#include "UTProductSwap.hpp"
+#include "UTModelYieldCurve.hpp"
 
 
 using namespace std;

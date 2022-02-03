@@ -9,7 +9,7 @@
 
 #include <vector>
 
-#include "UTRandomBase.h"
+#include "UTRandomBase.hpp"
 
 class UTParkMiller
 {

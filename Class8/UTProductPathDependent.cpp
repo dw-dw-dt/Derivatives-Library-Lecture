@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTProductPathDependent.h"
+#include "UTProductPathDependent.hpp"
 #include <stdexcept>
 
 using namespace std;

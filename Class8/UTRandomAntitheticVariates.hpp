@@ -9,8 +9,8 @@
 
 #include <vector>
 
-#include "UTRandomBase.h"
-#include "UTWrapper.h"
+#include "UTRandomBase.hpp"
+#include "UTWrapper.hpp"
 
 class UTRandomAntitheticVariates : public UTRandomBase
 {

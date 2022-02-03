@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTModelYieldCurve.h"
+#include "UTModelYieldCurve.hpp"
 
 using namespace std;
 

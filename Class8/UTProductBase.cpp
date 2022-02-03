@@ -1,6 +1,6 @@
 // UTProductBase.cpp
 //
-#include "UTProductBase.h"
+#include "UTProductBase.hpp"
 #include <stdexcept>
 
 using namespace std;

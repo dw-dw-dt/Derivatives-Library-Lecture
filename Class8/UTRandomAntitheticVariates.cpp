@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTRandomAntitheticVariates.h"
+#include "UTRandomAntitheticVariates.hpp"
 
 using namespace std;
 

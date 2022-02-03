@@ -6,7 +6,7 @@
 
 #include <stdexcept>
 
-#include "UTBisection.h"
+#include "UTBisection.hpp"
 
 using namespace std;
 

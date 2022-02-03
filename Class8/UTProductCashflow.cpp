@@ -4,7 +4,7 @@
 * Diva Analytics
 */
 
-#include "UTProductCashflow.h"
+#include "UTProductCashflow.hpp"
 
 using namespace std;
 
